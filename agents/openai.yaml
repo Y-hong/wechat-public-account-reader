@@ -1,0 +1,7 @@
+interface:
+  display_name: "WeChat Public Account Reader"
+  short_description: "Extract structured WeChat article content"
+  default_prompt: "Use $wechat-public-account-reader to extract structured data from this WeChat Official Account article link."
+
+policy:
+  allow_implicit_invocation: true
